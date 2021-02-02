@@ -1,4 +1,5 @@
 // to check whether the given no.s are friendly pair or not
+//Friendly Pair are two natural numbers whose sum of factors of first number and sum of factors of second number is equal to second number and first number respectively.
 
 import java.util.*;
 class Main{
